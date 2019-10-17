@@ -1,0 +1,6 @@
+Abrir primeiro o documento INDEX, que contem um formulario de login com um botão para seguir sem logar.
+Todas as paginas tem menu de navegalção e no final delas possuem mais 2 links, um para a galeria de imagens
+outro que direciona para a proxima pagina: pagina1>pagina2>pagina3>pagina4>pagina5>pagina1. para facilitar 
+navegar entre elas e não usar somente o menu.
+
+// A galeria ficou um pouco bugada pois não consegui resolver, mas da pra vizualizar todas as imagens com uma transição entre elas \\
